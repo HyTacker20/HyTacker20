@@ -1,7 +1,7 @@
 ## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 <p>Welcome to my GitHub <br>
-  I am Andrii, a Python Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/><b> Chernivtsi, Ukraine</b>   |   Living and studing in <b>Wroclaw, Poland</b> <img src="https://raw.githubusercontent.com/HatScripts/circle-flags/gh-pages/flags/pl.svg" width="13"/></p>
+  I am Andrii, a Python Backend Developer from <b> Chernivtsi, Ukraine</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="13"/>   |   Living and studing in <b>Wroclaw, Poland</b> <img src="https://raw.githubusercontent.com/HatScripts/circle-flags/gh-pages/flags/pl.svg" width="13"/></p>
 
 ## My main skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
